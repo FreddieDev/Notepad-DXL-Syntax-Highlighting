@@ -10,6 +10,6 @@ Adds syntax highlighting for DXL language to Notepad++
 
 ## Installation
 1.	In Notepad++, select "Languages" > "User Defined Language" > "Open User Defined Language Folder…"
-4.	Rename and [download the XML file](https://github.com/FreddieDev/Notepad-DXL-Syntax-Highlighting/raw/master/userDefinedLang-dxl.default.modern.xml) to the opened location
-5.	Relaunch Notepad++
-6.	You may have to click “Languages” and select "DXL" the first time you open a `.dxl` file
+2.	[Download the XML file](https://github.com/FreddieDev/Notepad-DXL-Syntax-Highlighting/raw/master/userDefinedLang-dxl.default.modern.xml) to the opened location
+3.	Relaunch Notepad++
+4.	You may have to click “Languages” and select "DXL" the first time you open a `.dxl` file
