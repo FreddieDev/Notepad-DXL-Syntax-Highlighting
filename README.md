@@ -1,11 +1,16 @@
 # Notepad++ DXL Syntax-Highlighting
-Adds syntax highlighting for DXL language to Notepad++
+Adds VSCode-themed syntax highlighting for DXL language to Notepad++
 
+## Preview
+<img
+  src="https://github.com/FreddieDev/Notepad-DXL-Syntax-Highlighting/blob/master/Preview.png"
+  alt="Preview of syntax highlighting"
+  height="270"
+/>
 
 ## Features:
 * Supports Notepad++ dark & light themes
 *	Supports escape chars in strings
-*	Themed like VS code
 *	Other corrections from other online editions
 
 ## Installation
